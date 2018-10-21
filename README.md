@@ -1,2 +1,2 @@
-# Initial page
+# 오픈소스SW 소책자 제작
 
