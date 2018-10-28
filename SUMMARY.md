@@ -2,12 +2,13 @@
 
 * [contents](README.md)
 
-## introduce
+## 오픈소스 소개
 
 * [오픈소스의 소개 1](introduce/1-1.md)
 * [오픈소스의 소개 2](introduce/2.md)
+* [read plz](introduce/read-plz.md)
 
-## history
+## 오픈소스의 역사
 
 * [1960년대](history/undefined.md)
 * [1970년대](history/2-1.md)
