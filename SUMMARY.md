@@ -1,6 +1,6 @@
 # Table of contents
 
-* [contents](README.md)
+* [오픈소스](README.md)
 
 ## 오픈소스 소개
 
