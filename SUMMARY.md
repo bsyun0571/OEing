@@ -11,6 +11,7 @@
 * [combination of industry and open-source](introduce/combination-of-industry-and-open-source.md)
 * [Approach and process](introduce/approach-and-process.md)
 * [Open Source Considerations](introduce/open-source-considerations.md)
+* [Elements of Open Source](introduce/elements-of-open-source.md)
 * [읽어주세요](introduce/read-plz.md)
 
 ## 오픈소스의 역사
