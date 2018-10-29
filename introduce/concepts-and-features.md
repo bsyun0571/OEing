@@ -1,4 +1,4 @@
-# Concepts and Features
+# 개념 규정 및 특징
 
 ## 1. 개념 규정 및 특징
 

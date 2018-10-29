@@ -1,4 +1,4 @@
-# Successful Case
+# 성공 사례
 
 ## 1. 사례
 

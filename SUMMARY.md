@@ -4,15 +4,14 @@
 
 ## 오픈소스 소개
 
-* [Concepts and Features](introduce/concepts-and-features.md)
-* [Successful Case](introduce/successful-case.md)
-* [Necessity](introduce/necessity.md)
-* [Open-source-based architecture](introduce/open-source-based-architecture.md)
-* [combination of industry and open-source](introduce/combination-of-industry-and-open-source.md)
-* [Approach and process](introduce/approach-and-process.md)
-* [Open Source Considerations](introduce/open-source-considerations.md)
-* [Elements of Open Source](introduce/elements-of-open-source.md)
-* [읽어주세요](introduce/read-plz.md)
+* [개념 규정 및 특징](introduce/concepts-and-features.md)
+* [성공 사례](introduce/successful-case.md)
+* [필요성](introduce/necessity.md)
+* [오픈소스 기반 아키텍처](introduce/open-source-based-architecture.md)
+* [산업과 오픈소스의 결합](introduce/combination-of-industry-and-open-source.md)
+* [접근 방법 및 프로세스](introduce/approach-and-process.md)
+* [오픈소스 고려 사항](introduce/open-source-considerations.md)
+* [오픈소스의 요소](introduce/elements-of-open-source.md)
 
 ## 오픈소스의 역사
 

@@ -1,4 +1,4 @@
-# Approach and process
+# 접근 방법 및 프로세스
 
 ## 4. 접근 방법 및 프로세스
 

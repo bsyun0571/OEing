@@ -1,6 +1,6 @@
-# combination of industry and open-source
+# 산업과 오픈소스의 결합
 
-## 3. 산업과 오픈소스의 결합
+## 1. 산업과 오픈소스의 결합
 
 ###  1\) 인더스트리 발전 과정
 
