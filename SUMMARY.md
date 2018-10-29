@@ -22,7 +22,7 @@
 * [2000년대](history/2000.md)
 * [2010년대](history/2010.md)
 
-## informatiion
+## information
 
 * [참고문헌](informatiion/undefined-1.md)
 
